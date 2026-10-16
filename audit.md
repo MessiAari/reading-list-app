@@ -12,4 +12,4 @@
 | Summary counts update | Yes | Total / Reading / Finished updated after add, status change and delete |
 | Data stays after refresh | Yes | Count unchanged after reload (localStorage) |
 | No login, database or external API | Yes | Only `localStorage`; no network calls in `script.js` |
-| Live Vercel link | Pending | Added after deployment |
+| Live Vercel link | Yes | https://reading-list-app-wheat.vercel.app/ |

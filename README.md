@@ -2,7 +2,7 @@
 
 A simple, responsive reading-list web app for students, built with **HTML, CSS and JavaScript** (Lecture 11).
 
-**Live app:** _deployment link will be added here after Vercel deploy_
+**Live app:** https://reading-list-app-wheat.vercel.app/
 
 ## Features
 - Add a book with a title and a status: **Want to Read**, **Reading** or **Finished**
